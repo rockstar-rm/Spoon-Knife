@@ -7,6 +7,12 @@
   {
  
     System.out.println("Hello World !");
+
+    /* first comment*/
+
+    System.out.println(" second String");
+  
+  System.out.println(" 3rd String");
   
   }
  
